@@ -1,0 +1,23 @@
+*{
+	background-image: linear-gradient(to left, #FFF1FE, #F1B9FA);
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+
+}
+
+h1{
+	color: purple;
+}
+
+h3{
+	color: purple;
+}
+
+
+
+.contenedorCarousel{
+	width: 150%;
+	height: 550px;
+	margin: 100px;
+}

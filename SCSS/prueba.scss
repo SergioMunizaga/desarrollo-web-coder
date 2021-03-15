@@ -1,5 +1,5 @@
 *{
-	background-image: linear-gradient(to left, #FFF1FE, #F1B9FA);
+	background-image: linear-gradient(to left, white, #FFF1FE );
 	padding: 0px;
 	margin: 0px;
 	box-sizing: border-box;
@@ -7,9 +7,45 @@
 }
 
 h1{
-	color: purple;
+	
+	font-family: Brush Script MT;
+
 }
 
+h2{
+	
+	font-family: Brush Script MT;}
+
+
 h3{
-	color: purple;
+	
+	font-family: Brush Script MT;
+}
+
+p{
+	margin: 30px
+}
+
+h5{
+	margin: center;
+}
+
+.contenedorCarousel{
+	width: 150%;
+	height: 550px;
+	margin: 80px;
+}
+
+table{
+margin: 10px;
+
+}
+
+
+
+body {overflow-x: hidden;
+}
+
+footer{
+	font-family: Brush Script MT;
 }
